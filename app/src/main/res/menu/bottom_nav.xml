@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item   android:title="Tareas"
+        android:id="@+id/tareas"
+        android:icon="@drawable/note"
+
+
+        />
+
+
+    <item   android:title="Completado"
+        android:id="@+id/completado"
+        android:icon="@drawable/complete"
+
+        />
+
+
+
+
+    <item    android:title="Nueva nota"
+        android:id="@+id/nueva_nota"
+        android:icon="@drawable/new_note"
+
+        />
+
+
+
+
+
+</menu>
